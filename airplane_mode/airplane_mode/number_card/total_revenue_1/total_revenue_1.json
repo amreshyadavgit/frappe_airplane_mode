@@ -1,0 +1,22 @@
+{
+ "creation": "2023-08-19 15:49:12.170667",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Total Revenue",
+ "modified": "2023-08-19 15:49:12.220157",
+ "modified_by": "Administrator",
+ "module": "Airplane Mode",
+ "name": "Total Revenue-1",
+ "owner": "Administrator",
+ "report_field": "count",
+ "report_function": "Sum",
+ "report_name": "Airplanes By Airline",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}
