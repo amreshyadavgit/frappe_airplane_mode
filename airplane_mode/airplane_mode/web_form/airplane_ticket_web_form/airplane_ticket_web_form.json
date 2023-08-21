@@ -7,7 +7,7 @@
  "allow_print": 0,
  "anonymous": 0,
  "apply_document_permissions": 0,
- "button_label": "Save",
+ "button_label": "Confirm",
  "creation": "2023-08-17 14:07:28.756945",
  "doc_type": "Airplane Ticket",
  "docstatus": 0,
@@ -17,7 +17,7 @@
  "list_columns": [],
  "login_required": 0,
  "max_attachment_size": 0,
- "modified": "2023-08-17 14:07:32.083676",
+ "modified": "2023-08-20 15:50:12.184574",
  "modified_by": "Administrator",
  "module": "Airplane Mode",
  "name": "airplane-ticket-web-form",
@@ -27,6 +27,9 @@
  "show_attachments": 0,
  "show_list": 0,
  "show_sidebar": 0,
+ "success_message": "You will receive the details in your email Soon",
+ "success_title": "Ticket Booked",
+ "success_url": "/flights",
  "title": "Airplane Ticket Web Form",
  "web_form_fields": [
   {
